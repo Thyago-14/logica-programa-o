@@ -1,0 +1,15 @@
+
+# Este arquivo contem os comandos utilizados no script projeto_calculadora.sh
+
+# alterar permissão do arquivo para torná_lo executável
+# e define permissão de escrita proprietário e de leitura para outros usuarios
+
+chmod 744 projeto_calculadora.sh
+
+# verifica se as permissões foram atribuídas corretamente 
+
+ ll
+
+# Executar a calculadora
+
+./projeto_calculadora.sh
