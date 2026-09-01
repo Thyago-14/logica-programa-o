@@ -18,5 +18,8 @@
 
 3. Digite um dos 4 operadores matemáticos disponíveis nesta calculadora (+,-,*,/) caso tente outro operador diferente desses apresentador ocasionará um erro na operação
 
-4. Após a realização das 3 etapas anteriores o resultado do calculo será exibido 
+4. Após a realização das 3 etapas anteriores o resultado do calculo será exibido
+
+## O que é o projeto_calculadora.sh
+O projeto_calculadora.sh se trata de uma calculadora simples criada para resolver cálculos utilizando apenas os 4 operadores matemáticos
 
